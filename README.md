@@ -17,7 +17,7 @@ For this analysis, we extracted data from our hawaii.sqlite file. This file cont
 After cleaning all the data, we combined all the data that we need into a single dataframe. From there, loading the data into SQL tables was the simple and easy part.
 
 **Results:**  
-From the steps in our analysis, we extracted temperature data for the months of June and December. In the month of June, we found out that the average temperature is 74.9 degrees and 71 degrees for December. We also performed calculations for precipitation, as that can also effect the success of our surf and shake shop. The average precipitation is 0.14 inches in June and 0.2 inches in December. 
+From the steps in our analysis, we extracted temperature data for the months of June and December. In the month of June, we found out that the average temperature is 74.9 degrees and 71 degrees for December. We also performed calculations for precipitation, as that can also effect the success of our surf and shake shop. The average precipitation is 0.14 inches in June and 0.2 inches in December.  
 <img src="Resources/june_temps_summary_statistics.PNG"> <img src="Resources/dec_temps_summary_statistics.PNG">  
 <img src="Resources/june_prcp_summary_statistics.PNG"> <img src="Resources/dec_prcp_summary_statistics.PNG">  
 
